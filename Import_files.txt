@@ -1,0 +1,17 @@
+# Virtual-Assistant
+#Virtual Assistant using PYTHON
+
+pip install speechRecognition
+pip install pyttsx3
+pip install pywhatkit
+pip install datetime
+pip install wikipedia
+pip install pyjokes
+pip install pyaudio
+pip install click
+pip install sleep
+pip install write
+pip install keyboard
+pip install yagmail
+pip install smtplib
+pip install webbrowser
